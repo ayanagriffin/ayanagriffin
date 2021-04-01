@@ -8,7 +8,7 @@
   <b>Currently</b>, I'm working with <a href="https://trillproject.com">Trill Project</a> and  <a href="https://developforgood.org">Develop for Good</a> to use technology to de-stigmatize mental health and make sure students are provided for, especially during the pandemic. I'm also volunteering with coding programs, such as <a href="https://www.blackgirlscode.com/">Black Girls Code</a>, where I help mentor and teach students.
 </p>
 <p>
-  <b>In the past</b>, I've attended Computer Science programs at <a href="https://buildyourfuture.withgoogle.com/programs/computer-science-summer-institute/">Google</a> and  <a href=" https://www.cmu.edu/pre-college/academic-programs/sams.html">Carnegie Mellon University</a>, created a <a href="https://chrome.google.com/webstore/detail/browserbug/pfggohdmelklomhabkeegajkjpdgppld">Chrome browser extension</a>, and studied abroad in Ghana!
+  <b>In the past</b>, I've attended Computer Science programs at <a href="https://buildyourfuture.withgoogle.com/programs/computer-science-summer-institute/">Google</a> and <a href="https://www.cmu.edu/pre-college/academic-programs/sams.html">Carnegie Mellon University</a>, created a <a href="https://chrome.google.com/webstore/detail/browserbug/pfggohdmelklomhabkeegajkjpdgppld">Chrome browser extension</a>, and studied abroad in Ghana!
 </p>
 <p>
   <b>Soon</b>, I'll start at Stanford University where I'll be studying Computer Science and Human-Computer Interaction.
