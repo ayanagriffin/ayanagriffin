@@ -1,6 +1,3 @@
-<div align="center">
-  <img alt="Logo" src="https://user-images.githubusercontent.com/69114559/113359889-92128300-92fd-11eb-8b68-16a57209d6fe.png" width="100" />
-</div>
 <h1 align="center">
   Hey there! 👋
 </h1>
