@@ -1,16 +1,15 @@
-### Hi there 👋
+<div align="center">
+  <img alt="Logo" src="https://user-images.githubusercontent.com/69114559/113359889-92128300-92fd-11eb-8b68-16a57209d6fe.png" width="100" />
+</div>
+<h1 align="center">
+  Hey there! 👋
+</h1>
+<p align="center">
+  The second iteration of <a href="https://ayanagriffin.com" target="_blank">ayanagriffin.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a>, hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>, and forked from <a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a>
+</p>
+<p align="center">
+  Previous iterations:
+  <a href="https://github.com/ayanagriffin/portfolio-v1" target="_blank">v1</a>
 
-<!--
-**ayanagriffin/ayanagriffin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
