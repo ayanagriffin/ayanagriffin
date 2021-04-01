@@ -5,7 +5,7 @@
   Hey there! 👋
 </h1>
 <p align="center">
-  The second iteration of <a href="https://ayanagriffin.com" target="_blank">ayanagriffin.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a>, hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>, and forked from <a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a>
+ Welcome to my Github account! Feel free to check out my work and visit <a href="https://ayanagriffin.com">my personal website/portfolio</a> to learn more!
 </p>
 <p align="center">
   Previous iterations:
