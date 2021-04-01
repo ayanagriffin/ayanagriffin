@@ -7,9 +7,4 @@
 <p align="center">
  Welcome to my Github account! Feel free to check out my work and visit <a href="https://ayanagriffin.com">my personal website/portfolio</a> to learn more!
 </p>
-<p align="center">
-  Previous iterations:
-  <a href="https://github.com/ayanagriffin/portfolio-v1" target="_blank">v1</a>
-
-</p>
 
