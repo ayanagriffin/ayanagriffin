@@ -16,7 +16,6 @@
 <p>
   <b>Outside of coding</b>, I love playing my kalimba, crocheting, and learning about other cultures. I love to meet and chat with new people, so feel free to <a href="mailto:hi@ayanagriffin.com">say hi!</a>
 </p>
-<hr>
 <div>
  <a href="https://ayanagriffin.com"> <img width="25" alt="Personal website/portfolio" src="https://user-images.githubusercontent.com/69114559/113362136-807faa00-9302-11eb-9f69-38c73681d5a7.png"></a>
   &nbsp; &nbsp;
