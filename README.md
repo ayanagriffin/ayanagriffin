@@ -11,9 +11,6 @@
   <b>In the past</b>, I've attended Computer Science programs at <a href="https://buildyourfuture.withgoogle.com/programs/computer-science-summer-institute/">Google</a> and <a href="https://www.cmu.edu/pre-college/academic-programs/sams.html">Carnegie Mellon University</a>, created a <a href="https://chrome.google.com/webstore/detail/browserbug/pfggohdmelklomhabkeegajkjpdgppld">Chrome browser extension</a>, and studied abroad in Ghana!
 </p>
 <p>
-  <b>Soon</b>, I'll start at Stanford University where I'll be studying Computer Science and Human-Computer Interaction.
-</p>
-<p>
   <b>Outside of coding</b>, I love playing my kalimba, crocheting, and learning about other cultures. I love to meet and chat with new people, so feel free to <a href="mailto:hi@ayanagriffin.com">say hi!</a>
 </p>
 <div>
