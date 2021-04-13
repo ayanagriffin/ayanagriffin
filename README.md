@@ -2,10 +2,10 @@
   Hey there! 👋
 </h1>
 <p>
- <b>I'm Ayana</b>, a CS student born and raised in the midwest, but currently living in the Bay Area. I have a particular love for building and designing beautiful, meaningful web projects that focus on social issues.
+ <b>I'm Ayana</b>, a CS student born and raised in the midwest, but currently living in the Bay Area. I have a particular love for building and designing beautiful, meaningful web projects that focus on social issues, as well as supporting under-represented minorities in tech.
 </p>
 <p>
-  <b>Currently</b>, I'm working with <a href="https://trillproject.com">Trill Project</a> and  <a href="https://developforgood.org">Develop for Good</a> to use technology to de-stigmatize mental health and make sure students are provided for, especially during the pandemic. I'm also volunteering with coding programs, such as <a href="https://www.blackgirlscode.com/">Black Girls Code</a>, where I help mentor and teach students.
+  <b>Currently</b>, I'm developing applications with <a href="https://trillproject.com">Trill Project</a> and  <a href="https://developforgood.org">Develop for Good</a> to de-stigmatize mental health and make sure students are provided for, especially during the pandemic. I'm also volunteering with coding programs, such as <a href="https://www.blackgirlscode.com/">Black Girls Code</a>, where I help mentor and teach students.
 </p>
 <p>
   <b>In the past</b>, I've attended Computer Science programs at <a href="https://buildyourfuture.withgoogle.com/programs/computer-science-summer-institute/">Google</a> and <a href="https://www.cmu.edu/pre-college/academic-programs/sams.html">Carnegie Mellon University</a>, created a <a href="https://chrome.google.com/webstore/detail/browserbug/pfggohdmelklomhabkeegajkjpdgppld">Chrome browser extension</a>, and studied abroad in Ghana!
@@ -23,5 +23,4 @@
 <a href="https://ayanagriffin.com/resume.pdf"><img width="20" alt="Resume" src="https://user-images.githubusercontent.com/69114559/113361171-31387a00-9300-11eb-8438-9b84d91b3c15.png"></a>
 
 </div>
-
 
