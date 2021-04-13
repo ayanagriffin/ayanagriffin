@@ -2,7 +2,7 @@
   Hey there! 👋
 </h1>
 <p>
- <b>I'm Ayana</b>, a CS student born and raised in the midwest, but currently living in the Bay Area. I have a particular love for building and designing beautiful, meaningul web projects that focus on social issues.
+ <b>I'm Ayana</b>, a CS student born and raised in the midwest, but currently living in the Bay Area. I have a particular love for building and designing beautiful, meaningful web projects that focus on social issues.
 </p>
 <p>
   <b>Currently</b>, I'm working with <a href="https://trillproject.com">Trill Project</a> and  <a href="https://developforgood.org">Develop for Good</a> to use technology to de-stigmatize mental health and make sure students are provided for, especially during the pandemic. I'm also volunteering with coding programs, such as <a href="https://www.blackgirlscode.com/">Black Girls Code</a>, where I help mentor and teach students.
